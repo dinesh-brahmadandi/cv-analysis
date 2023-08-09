@@ -5,11 +5,7 @@ A system that predict the personality of a person with OCEAN values and resume.
 ## Objectives
 This system can be used in many business parts/areas that may require expert candidates. This system will reduce the workload of the (workers in general/hiring, training, and firing department). This system will help the (related to workers in general) to select the right candidate for the desired job profile, which in turn provide the expert (all the workers in a company or country) for the organization. Admin can easily shortlist a candidate based on their personality scores and select the appropriate candidate for a particular job profile.
 Using **Natural Language Processing (NLP)** can be defined as a process that enables a machine to become more like a human, because of this deeply cutting the distance between machines and humans. This system will focus not only on qualification and inexperience but also focuses on other important aspects, which are needed/demanded for a particular job position. Admin can store the data in excel sheet for further comparison and sorting of data.
-
-## Background of Personality Perception
-The ***Big Five Personality Traits*** model is based on findings from several independent researchers, and it dates back to the late 1950s. But the model as we know it now began to take shape in the 1990s.
-Lewis Goldberg, a researcher at the Oregon Research Institute, is credited with naming the model "*The Big Five*." It is now considered to be an accurate and respected personality scale, which is routinely used by businesses and in psychological research.
-The Big Five Personality Traits Model measures five key dimensions of people's personalities:
+ Five*." It is now considered to be an accurate and respected personality scale, which is routinely used by businesses and in psychological research.
 
 ### Openness 
 >It sometimes called "Intellect" or "Imagination," this measures your level of creativity, and your desire for knowledge and new experiences.
